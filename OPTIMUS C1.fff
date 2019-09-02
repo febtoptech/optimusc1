@@ -9,7 +9,7 @@
     <diameter>0.4</diameter>
     <autoWidth>1</autoWidth>
     <width>0.48</width>
-    <extrusionMultiplier>0.4</extrusionMultiplier>
+    <extrusionMultiplier>1</extrusionMultiplier>
     <useRetract>1</useRetract>
     <retractionDistance>4</retractionDistance>
     <extraRestartDistance>0</extraRestartDistance>
